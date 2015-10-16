@@ -1,0 +1,24 @@
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\SchoolManagement\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll.config
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\SchoolManagement\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\SchoolManagement\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.pdb
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\SchoolManagement\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csprojResolveAssemblyReference.cache
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\SchoolManagement\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.dll
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\SchoolManagement\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.pdb
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll.config
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.pdb
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csprojResolveAssemblyReference.cache
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.dll
+D:\CSE\Repository\DotNet\Youtube~Foyzul\KickStartAngularjsWithWebAPI\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.pdb
+D:\CSE\Repository\DotNet\~GitHub\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll.config
+D:\CSE\Repository\DotNet\~GitHub\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll
+D:\CSE\Repository\DotNet\~GitHub\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.pdb
+D:\CSE\Repository\DotNet\~GitHub\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csprojResolveAssemblyReference.cache
+D:\CSE\Repository\DotNet\~GitHub\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.dll
+D:\CSE\Repository\DotNet\~GitHub\Basic-CRUD-with-WebAPI-and-Angular\Source\App\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.pdb
+E:\C C++ C#\Asp.Net\Web Api with Angular JS\Basic-CRUD-with-WebAPI-and-Angular-master\Source\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll.config
+E:\C C++ C#\Asp.Net\Web Api with Angular JS\Basic-CRUD-with-WebAPI-and-Angular-master\Source\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll
+E:\C C++ C#\Asp.Net\Web Api with Angular JS\Basic-CRUD-with-WebAPI-and-Angular-master\Source\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.pdb
+E:\C C++ C#\Asp.Net\Web Api with Angular JS\Basic-CRUD-with-WebAPI-and-Angular-master\Source\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csprojResolveAssemblyReference.cache
+E:\C C++ C#\Asp.Net\Web Api with Angular JS\Basic-CRUD-with-WebAPI-and-Angular-master\Source\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.dll
+E:\C C++ C#\Asp.Net\Web Api with Angular JS\Basic-CRUD-with-WebAPI-and-Angular-master\Source\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.pdb
